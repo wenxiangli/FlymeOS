@@ -1,6 +1,7 @@
-# FlymeOS_devices_cherry
+ FlymeOS_devices_cherry
 
-基于FlymeOS开源代码插桩适配
+基于FlymeOS开源代码插桩适配适用于4X（Che1-CL20,Che1-CL10)
+CM12.1底包源码来自于dianlujitao
 
 devices/base_cm
 cm-12.1 基础机型，是所有 cm-12.1 机型“插桩”的基础。
